@@ -1,1 +1,1 @@
-# javarush_python
+# javarush_python_test
